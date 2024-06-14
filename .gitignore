@@ -1,1 +1,4 @@
-node_modules/git
+#Ignored directories
+.idea/
+.vc/
+node_modules/
